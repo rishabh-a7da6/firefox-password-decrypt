@@ -1,0 +1,6 @@
+name: firefox-decrypt
+channels: 
+  - default
+
+dependencies:
+  - python=3.10
